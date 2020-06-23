@@ -1,0 +1,13 @@
+C:\Users\Ariel\Desktop\SistemaGeneral\bin\Debug\SistemaGeneral.exe.config
+C:\Users\Ariel\Desktop\SistemaGeneral\bin\Debug\SistemaGeneral.exe
+C:\Users\Ariel\Desktop\SistemaGeneral\bin\Debug\SistemaGeneral.pdb
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.csprojAssemblyReference.cache
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.Clientes.resources
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.Form1.resources
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.MenuPrincipal.resources
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.Properties.Resources.resources
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.Proveedores.resources
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.csproj.GenerateResource.cache
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.exe
+C:\Users\Ariel\Desktop\SistemaGeneral\obj\Debug\SistemaGeneral.pdb
